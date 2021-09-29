@@ -1,3 +1,6 @@
+![coins](https://user-images.githubusercontent.com/72887767/135351728-695c6742-a249-4ff5-9b28-549500971a37.JPG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
